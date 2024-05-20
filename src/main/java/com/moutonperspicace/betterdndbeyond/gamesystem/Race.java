@@ -10,6 +10,6 @@ public interface Race extends GameElement{
 
     int speed(SpeedType speedType);
 
-    List<Usable> traits();
+    List<Usable> traits();//peut etre rendre plus specifique quand on aura implémenté les traits
 
 }
