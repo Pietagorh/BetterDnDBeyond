@@ -1,4 +1,4 @@
-package com.moutonperspicace.betterdndbeyond.gamesystem;
+package com.moutonperspicace.betterdndbeyond.gamesystem.beings;
 
 public enum Size {
     TINY,

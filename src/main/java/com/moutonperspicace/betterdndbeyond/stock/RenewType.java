@@ -1,4 +1,4 @@
-package com.moutonperspicace.betterdndbeyond.gamesystem;
+package com.moutonperspicace.betterdndbeyond.stock;
 
 public enum RenewType {
     SHORT_REST,
